@@ -15,14 +15,14 @@ sudo git clone https://github.com/vv1ck/Cleaning-TikTok
 <!--END_SECTION:waka-->
 <!--START_SECTION:waka-->
 ```
-cd Cleaning-TikTok
+pip install requests
 ```
 <!--END_SECTION:waka-->
 -----------------------
 You need to download the requests library if you don't have it :
 <!--START_SECTION:waka-->
 ```
-pip install requests
+cd Cleaning-TikTok
 ```
 <!--END_SECTION:waka-->
 - Then run the tool :
