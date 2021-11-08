@@ -13,13 +13,15 @@ install in kali linux :
 sudo git clone https://github.com/vv1ck/Cleaning-TikTok
 ```
 <!--END_SECTION:waka-->
+
+You need to download the requests library if you don't have it :
+
 <!--START_SECTION:waka-->
 ```
 pip install requests
 ```
 <!--END_SECTION:waka-->
 -----------------------
-You need to download the requests library if you don't have it :
 <!--START_SECTION:waka-->
 ```
 cd Cleaning-TikTok
